@@ -1,6 +1,6 @@
 # eslint-plugin-css
 
-Lint CSS files (using stylelint)
+Lint CSS files (using csslint)
 
 ## Installation
 

@@ -1,6 +1,6 @@
 {
   "name": "eslint-plugin-json",
-  "version": "1.2.0",
+  "version": "1.6.0",
   "description": "Lint JSON files",
   "keywords": [
     "eslint",
@@ -9,7 +9,7 @@
     "json",
     "eslint-plugin-json"
   ],
-  "author": "Azeem Bande-Ali <a.bandeali@gmail.com>",
+  "author": "uwx / Azeem Bande-Ali <a.bandeali@gmail.com>",
   "main": "lib/index.js",
   "scripts": {
     "test": "exit 0"

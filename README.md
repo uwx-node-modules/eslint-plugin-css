@@ -1,5 +1,7 @@
 # eslint-plugin-css
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/uwx/eslint-plugin-css.svg)](https://greenkeeper.io/)
+
 Lint CSS files (using csslint)
 
 ## Installation

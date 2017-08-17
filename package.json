@@ -22,7 +22,7 @@
     "url": "https://github.com/uwz/eslint-plugin-css/issues"
   },
   "dependencies": {
-    "stylelint": "^1.0.5"
+    "csslint": "^1.0.5"
   },
   "devDependencies": {
     "chai": "^3.4.1",

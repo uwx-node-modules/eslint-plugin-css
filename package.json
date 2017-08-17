@@ -22,7 +22,7 @@
     "url": "https://github.com/azeemba/eslint-plugin-json/issues"
   },
   "dependencies": {
-    "jshint": "^2.8.0"
+    "line-column": "^1.0.2"
   },
   "devDependencies": {
     "chai": "^3.4.1",

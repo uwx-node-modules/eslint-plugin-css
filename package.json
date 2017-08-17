@@ -1,13 +1,13 @@
 {
-  "name": "eslint-plugin-json",
-  "version": "1.7.0",
-  "description": "Lint JSON files",
+  "name": "eslint-plugin-css",
+  "version": "1.9.0",
+  "description": "Lint CSS files",
   "keywords": [
     "eslint",
     "eslintplugin",
     "eslint-plugin",
-    "json",
-    "eslint-plugin-json"
+    "css",
+    "eslint-plugin-css"
   ],
   "author": "uwx / Azeem Bande-Ali <a.bandeali@gmail.com>",
   "main": "lib/index.js",
@@ -16,13 +16,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/azeemba/eslint-plugin-json"
+    "url": "https://github.com/uwz/eslint-plugin-css"
   },
   "bugs": {
-    "url": "https://github.com/azeemba/eslint-plugin-json/issues"
+    "url": "https://github.com/uwz/eslint-plugin-css/issues"
   },
   "dependencies": {
-    "line-column": "^1.0.2"
+    "stylelint": "^1.0.5"
   },
   "devDependencies": {
     "chai": "^3.4.1",
@@ -32,6 +32,6 @@
   "engines": {
     "node": ">=0.10.0"
   },
-  "url": "https://github.com/azeemba/eslint-plugin-json",
+  "url": "https://github.com/uwz/eslint-plugin-css",
   "license": "ISC"
 }
